@@ -40,8 +40,13 @@ var MySQL = mysql.createConnection({
 /**
  * Middlewares
  */
-
+ app.use(function(req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Headers", "X-Requested-With");
+    next();
+});
 app.use(express.static("./public"));
+
 //Application CORS configuration
 app.use(cors(
         {
@@ -56,7 +61,7 @@ const SESSION_ONE_DAY = 1000 * 60 * 60 * 24;
 app.use(sessions({
     secret: 'a0a8f59b05cf70c044776e028e9844b3',
     saveUninitialized: true,
-    cookie: { maxAge: SESSION_ONE_DAY, secure: false },
+    cookie: { maxAge: SESSION_ONE_DAY},
     resave: false 
 }));
 
@@ -126,6 +131,56 @@ app.post("/userlogout", (req,res) => {
     }
     res.send(Response);
 })
+app.post("/updatevehicle", (req, res) => {
+    var Response = {};
+    Response = genresp.Response.GenericResponse(-1,
+        {
+            "code" : "REQUEST_PROCESS_FAILURE"
+        }
+    );
+    if(sess.Sessions.ValidSession(req))
+    {
+        let LoggedIn = sess.Sessions.GetSessionKey(req, "LoggedIn");
+        if(LoggedIn !== undefined && LoggedIn !== null && LoggedIn !== false)
+        {
+            let Data = req.body["UpdateVehicleData"];
+            let UserID = req.session.UserID;
+            let ComponentString = Data.ComponentList.join(",");
+            console.log("ComponentString: " + ComponentString);
+            Data.ComponentString = ComponentString;
+            console.log("Data:");
+            console.log(Data);
+
+            let szQuery = "UPDATE `personal_vehicles` SET `Components` = ?, Color0 = ? WHERE PVID = ? AND PID = ?";
+            MySQL.query(
+                szQuery,
+                [Data.ComponentString, Data.Colors[0], Data.ID, UserID],
+                function(err, result) {
+                    if(err) throw err;
+                    if(result.affectedRows > 0) {
+                        Response = genresp.Response.GenericResponse(1,
+                            {
+                                "code" : "VEHICLE_UPDATE_SUCESS"
+                            }
+                        );
+                    }
+                    else {
+                        Response = genresp.Response.GenericResponse(-11,
+                        {
+                            "code" : "VEHICLE_UPDATE_FAILURE"
+                        }
+                        );  
+                    }
+                    res.send(Response);
+                }
+            )
+            
+
+        }
+        else res.send(Response);
+    }
+    else res.send(Response);
+});
 app.get("/fetchvehicles", (req, res) => {
     if(sess.Sessions.ValidSession(req))
     {

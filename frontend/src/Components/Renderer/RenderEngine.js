@@ -39,6 +39,8 @@ var RenderEngine = {
         static g_Lights = [];
         
         static g_RenderFrame = 0;
+
+        static g_LoadingObject = false;
         
         static InitLights() {
             RenderEngine.Globals.g_LightCount["DirectionalLight"] = 0;
@@ -219,9 +221,13 @@ var RenderEngine = {
                 console.log("Removing Object:");
                 console.log(this.m_Object);
                 for(let i = 0; i < this.m_Materials.length; i++)
-                this.m_Materials[i].dispose();
-                for(let i = 0; i < this.m_Children.length; i++)
-                this.m_Children[i].Destroy();
+                    this.m_Materials[i].dispose();
+                for(let i = 0; i < this.m_Children.length; i++) 
+                {
+                    console.log("Destroying child element:");
+                    console.log(this.m_Children[i]);
+                    this.m_Children[i].Destroy();
+                }
                 RenderEngine.Globals.g_Scene.remove(this.m_Object);
                 this.m_Object = null;
                 console.log("Removed Object");
@@ -282,7 +288,9 @@ var RenderEngine = {
                         {
                             if(typeof(postFunction) == "function")
                             {
+                                
                                 postFunction(This);
+                                
                             }
                         }
                     }

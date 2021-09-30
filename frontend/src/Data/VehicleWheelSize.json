@@ -1,0 +1,2789 @@
+{
+    "Wheels": {
+       "landstal": {
+          "VehicleName": "landstal",
+          "WheelSize": {
+             "Front": [
+                0.768,
+                0.768,
+                0.768
+             ],
+             "Rear": [
+                0.768,
+                0.768,
+                0.768
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bravura": {
+          "VehicleName": "bravura",
+          "WheelSize": {
+             "Front": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "Rear": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "buffalo": {
+          "VehicleName": "buffalo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "linerun": {
+          "VehicleName": "linerun",
+          "WheelSize": {
+             "Front": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "Rear": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "peren": {
+          "VehicleName": "peren",
+          "WheelSize": {
+             "Front": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "Rear": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sentinel": {
+          "VehicleName": "sentinel",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "dumper": {
+          "VehicleName": "dumper",
+          "WheelSize": {
+             "Front": [
+                2.28,
+                2.28,
+                2.28
+             ],
+             "Rear": [
+                2.28,
+                2.28,
+                2.28
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "firetruk": {
+          "VehicleName": "firetruk",
+          "WheelSize": {
+             "Front": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "trash": {
+          "VehicleName": "trash",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "stretch": {
+          "VehicleName": "stretch",
+          "WheelSize": {
+             "Front": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "manana": {
+          "VehicleName": "manana",
+          "WheelSize": {
+             "Front": [
+                0.62,
+                0.62,
+                0.62
+             ],
+             "Rear": [
+                0.62,
+                0.62,
+                0.62
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "infernus": {
+          "VehicleName": "infernus",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "voodoo": {
+          "VehicleName": "voodoo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "pony": {
+          "VehicleName": "pony",
+          "WheelSize": {
+             "Front": [
+                0.72,
+                0.72,
+                0.72
+             ],
+             "Rear": [
+                0.72,
+                0.72,
+                0.72
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "mule": {
+          "VehicleName": "mule",
+          "WheelSize": {
+             "Front": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "Rear": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "cheetah": {
+          "VehicleName": "cheetah",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "ambulan": {
+          "VehicleName": "ambulan",
+          "WheelSize": {
+             "Front": [
+                0.864,
+                0.864,
+                0.864
+             ],
+             "Rear": [
+                0.864,
+                0.864,
+                0.864
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "moonbeam": {
+          "VehicleName": "moonbeam",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "esperant": {
+          "VehicleName": "esperant",
+          "WheelSize": {
+             "Front": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "Rear": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "taxi": {
+          "VehicleName": "taxi",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "washing": {
+          "VehicleName": "washing",
+          "WheelSize": {
+             "Front": [
+                0.65,
+                0.65,
+                0.65
+             ],
+             "Rear": [
+                0.65,
+                0.65,
+                0.65
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bobcat": {
+          "VehicleName": "bobcat",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "mrwhoop": {
+          "VehicleName": "mrwhoop",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bfinject": {
+          "VehicleName": "bfinject",
+          "WheelSize": {
+             "Front": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "Rear": [
+                0.92,
+                0.92,
+                0.92
+             ],
+             "WheelProportion": 1.0952380952380953
+          }
+       },
+       "hunter": {
+          "VehicleName": "hunter",
+          "WheelSize": {
+             "Front": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "Rear": [
+                0.4,
+                0.4,
+                0.4
+             ],
+             "WheelProportion": 0.625
+          }
+       },
+       "premier": {
+          "VehicleName": "premier",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "enforcer": {
+          "VehicleName": "enforcer",
+          "WheelSize": {
+             "Front": [
+                0.936,
+                0.936,
+                0.936
+             ],
+             "Rear": [
+                0.936,
+                0.936,
+                0.936
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "securica": {
+          "VehicleName": "securica",
+          "WheelSize": {
+             "Front": [
+                0.914,
+                0.914,
+                0.914
+             ],
+             "Rear": [
+                0.914,
+                0.914,
+                0.914
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "banshee": {
+          "VehicleName": "banshee",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bus": {
+          "VehicleName": "bus",
+          "WheelSize": {
+             "Front": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rhino": {
+          "VehicleName": "rhino",
+          "WheelSize": {
+             "Front": [
+                1.3,
+                1.3,
+                1.3
+             ],
+             "Rear": [
+                1.3,
+                1.3,
+                1.3
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "barracks": {
+          "VehicleName": "barracks",
+          "WheelSize": {
+             "Front": [
+                1.2,
+                1.2,
+                1.2
+             ],
+             "Rear": [
+                1.2,
+                1.2,
+                1.2
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hotknife": {
+          "VehicleName": "hotknife",
+          "WheelSize": {
+             "Front": [
+                0.72,
+                0.72,
+                0.72
+             ],
+             "Rear": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "WheelProportion": 1.1111111111111112
+          }
+       },
+       "artict1": {
+          "VehicleName": "artict1",
+          "WheelSize": {
+             "Front": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "Rear": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "previon": {
+          "VehicleName": "previon",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "coach": {
+          "VehicleName": "coach",
+          "WheelSize": {
+             "Front": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "cabbie": {
+          "VehicleName": "cabbie",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "stallion": {
+          "VehicleName": "stallion",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rumpo": {
+          "VehicleName": "rumpo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rcbandit": {
+          "VehicleName": "rcbandit",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "romero": {
+          "VehicleName": "romero",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "packer": {
+          "VehicleName": "packer",
+          "WheelSize": {
+             "Front": [
+                1.082,
+                1.082,
+                1.082
+             ],
+             "Rear": [
+                1.082,
+                1.082,
+                1.082
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "monster": {
+          "VehicleName": "monster",
+          "WheelSize": {
+             "Front": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "Rear": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "admiral": {
+          "VehicleName": "admiral",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tram": {
+          "VehicleName": "tram",
+          "WheelSize": {
+             "Front": [
+                0.78,
+                0.78,
+                0.78
+             ],
+             "Rear": [
+                0.78,
+                0.78,
+                0.78
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "artict2": {
+          "VehicleName": "artict2",
+          "WheelSize": {
+             "Front": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "Rear": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "turismo": {
+          "VehicleName": "turismo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0714285714285714
+          }
+       },
+       "flatbed": {
+          "VehicleName": "flatbed",
+          "WheelSize": {
+             "Front": [
+                1.2,
+                1.2,
+                1.2
+             ],
+             "Rear": [
+                1.2,
+                1.2,
+                1.2
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "yankee": {
+          "VehicleName": "yankee",
+          "WheelSize": {
+             "Front": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "Rear": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "caddy": {
+          "VehicleName": "caddy",
+          "WheelSize": {
+             "Front": [
+                0.5,
+                0.5,
+                0.5
+             ],
+             "Rear": [
+                0.5,
+                0.5,
+                0.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "solair": {
+          "VehicleName": "solair",
+          "WheelSize": {
+             "Front": [
+                0.72,
+                0.72,
+                0.72
+             ],
+             "Rear": [
+                0.72,
+                0.72,
+                0.72
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "topfun": {
+          "VehicleName": "topfun",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "freeway": {
+          "VehicleName": "freeway",
+          "WheelSize": {
+             "Front": [
+                0.654,
+                0.654,
+                0.654
+             ],
+             "Rear": [
+                0.654,
+                0.654,
+                0.654
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rcbaron": {
+          "VehicleName": "rcbaron",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rcraider": {
+          "VehicleName": "rcraider",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "glendale": {
+          "VehicleName": "glendale",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "oceanic": {
+          "VehicleName": "oceanic",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sparrow": {
+          "VehicleName": "sparrow",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "patriot": {
+          "VehicleName": "patriot",
+          "WheelSize": {
+             "Front": [
+                0.894,
+                0.894,
+                0.894
+             ],
+             "Rear": [
+                0.894,
+                0.894,
+                0.894
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "quad": {
+          "VehicleName": "quad",
+          "WheelSize": {
+             "Front": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "Rear": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hermes": {
+          "VehicleName": "hermes",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sabre": {
+          "VehicleName": "sabre",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "zr350": {
+          "VehicleName": "zr350",
+          "WheelSize": {
+             "Front": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "Rear": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "walton": {
+          "VehicleName": "walton",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "regina": {
+          "VehicleName": "regina",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "comet": {
+          "VehicleName": "comet",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "burrito": {
+          "VehicleName": "burrito",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "camper": {
+          "VehicleName": "camper",
+          "WheelSize": {
+             "Front": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "Rear": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "baggage": {
+          "VehicleName": "baggage",
+          "WheelSize": {
+             "Front": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "Rear": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "dozer": {
+          "VehicleName": "dozer",
+          "WheelSize": {
+             "Front": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "Rear": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rancher": {
+          "VehicleName": "rancher",
+          "WheelSize": {
+             "Front": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "Rear": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "fbiranch": {
+          "VehicleName": "fbiranch",
+          "WheelSize": {
+             "Front": [
+                0.92,
+                0.92,
+                0.92
+             ],
+             "Rear": [
+                0.92,
+                0.92,
+                0.92
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "virgo": {
+          "VehicleName": "virgo",
+          "WheelSize": {
+             "Front": [
+                0.65,
+                0.65,
+                0.65
+             ],
+             "Rear": [
+                0.65,
+                0.65,
+                0.65
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "greenwoo": {
+          "VehicleName": "greenwoo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hotring": {
+          "VehicleName": "hotring",
+          "WheelSize": {
+             "Front": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "Rear": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sandking": {
+          "VehicleName": "sandking",
+          "WheelSize": {
+             "Front": [
+                0.972,
+                0.972,
+                0.972
+             ],
+             "Rear": [
+                0.972,
+                0.972,
+                0.972
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "blistac": {
+          "VehicleName": "blistac",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "boxville": {
+          "VehicleName": "boxville",
+          "WheelSize": {
+             "Front": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "Rear": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "benson": {
+          "VehicleName": "benson",
+          "WheelSize": {
+             "Front": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "Rear": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "mesa": {
+          "VehicleName": "mesa",
+          "WheelSize": {
+             "Front": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "Rear": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rcgoblin": {
+          "VehicleName": "rcgoblin",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hotrina": {
+          "VehicleName": "hotrina",
+          "WheelSize": {
+             "Front": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "Rear": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hotrinb": {
+          "VehicleName": "hotrinb",
+          "WheelSize": {
+             "Front": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "Rear": [
+                0.82,
+                0.82,
+                0.82
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bloodra": {
+          "VehicleName": "bloodra",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rnchlure": {
+          "VehicleName": "rnchlure",
+          "WheelSize": {
+             "Front": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "Rear": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "supergt": {
+          "VehicleName": "supergt",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "elegant": {
+          "VehicleName": "elegant",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "journey": {
+          "VehicleName": "journey",
+          "WheelSize": {
+             "Front": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "Rear": [
+                0.8,
+                0.8,
+                0.8
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "petro": {
+          "VehicleName": "petro",
+          "WheelSize": {
+             "Front": [
+                1.106,
+                1.106,
+                1.106
+             ],
+             "Rear": [
+                1.106,
+                1.106,
+                1.106
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rdtrain": {
+          "VehicleName": "rdtrain",
+          "WheelSize": {
+             "Front": [
+                1.18,
+                1.18,
+                1.18
+             ],
+             "Rear": [
+                1.18,
+                1.18,
+                1.18
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "nebula": {
+          "VehicleName": "nebula",
+          "WheelSize": {
+             "Front": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "majestic": {
+          "VehicleName": "majestic",
+          "WheelSize": {
+             "Front": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "buccanee": {
+          "VehicleName": "buccanee",
+          "WheelSize": {
+             "Front": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "Rear": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "cement": {
+          "VehicleName": "cement",
+          "WheelSize": {
+             "Front": [
+                1.12,
+                1.12,
+                1.12
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 0.8928571428571428
+          }
+       },
+       "towtruck": {
+          "VehicleName": "towtruck",
+          "WheelSize": {
+             "Front": [
+                0.92,
+                0.92,
+                0.92
+             ],
+             "Rear": [
+                0.92,
+                0.92,
+                0.92
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "fortune": {
+          "VehicleName": "fortune",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "cadrona": {
+          "VehicleName": "cadrona",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "fbitruck": {
+          "VehicleName": "fbitruck",
+          "WheelSize": {
+             "Front": [
+                0.85,
+                0.85,
+                0.85
+             ],
+             "Rear": [
+                0.85,
+                0.85,
+                0.85
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "willard": {
+          "VehicleName": "willard",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "forklift": {
+          "VehicleName": "forklift",
+          "WheelSize": {
+             "Front": [
+                0.45,
+                0.45,
+                0.45
+             ],
+             "Rear": [
+                0.45,
+                0.45,
+                0.45
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tractor": {
+          "VehicleName": "tractor",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                1.3,
+                1.3,
+                1.3
+             ],
+             "WheelProportion": 1.9117647058823528
+          }
+       },
+       "combine": {
+          "VehicleName": "combine",
+          "WheelSize": {
+             "Front": [
+                0.588,
+                0.588,
+                0.588
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.7006802721088436
+          }
+       },
+       "feltzer": {
+          "VehicleName": "feltzer",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "remingtn": {
+          "VehicleName": "remingtn",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "slamvan": {
+          "VehicleName": "slamvan",
+          "WheelSize": {
+             "Front": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "Rear": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "blade": {
+          "VehicleName": "blade",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "freight": {
+          "VehicleName": "freight",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "streak": {
+          "VehicleName": "streak",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "vortex": {
+          "VehicleName": "vortex",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "vincent": {
+          "VehicleName": "vincent",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bullet": {
+          "VehicleName": "bullet",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0714285714285714
+          }
+       },
+       "clover": {
+          "VehicleName": "clover",
+          "WheelSize": {
+             "Front": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "Rear": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sadler": {
+          "VehicleName": "sadler",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "firela": {
+          "VehicleName": "firela",
+          "WheelSize": {
+             "Front": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hustler": {
+          "VehicleName": "hustler",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "intruder": {
+          "VehicleName": "intruder",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "primo": {
+          "VehicleName": "primo",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "cargobob": {
+          "VehicleName": "cargobob",
+          "WheelSize": {
+             "Front": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "Rear": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tampa": {
+          "VehicleName": "tampa",
+          "WheelSize": {
+             "Front": [
+                0.684,
+                0.684,
+                0.684
+             ],
+             "Rear": [
+                0.684,
+                0.684,
+                0.684
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sunrise": {
+          "VehicleName": "sunrise",
+          "WheelSize": {
+             "Front": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "Rear": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "merit": {
+          "VehicleName": "merit",
+          "WheelSize": {
+             "Front": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "utility": {
+          "VehicleName": "utility",
+          "WheelSize": {
+             "Front": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "Rear": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "yosemite": {
+          "VehicleName": "yosemite",
+          "WheelSize": {
+             "Front": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "Rear": [
+                0.84,
+                0.84,
+                0.84
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "windsor": {
+          "VehicleName": "windsor",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "monstera": {
+          "VehicleName": "monstera",
+          "WheelSize": {
+             "Front": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "Rear": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "monsterb": {
+          "VehicleName": "monsterb",
+          "WheelSize": {
+             "Front": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "Rear": [
+                1.5,
+                1.5,
+                1.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "uranus": {
+          "VehicleName": "uranus",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "jester": {
+          "VehicleName": "jester",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sultan": {
+          "VehicleName": "sultan",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "stratum": {
+          "VehicleName": "stratum",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "elegy": {
+          "VehicleName": "elegy",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "raindanc": {
+          "VehicleName": "raindanc",
+          "WheelSize": {
+             "Front": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "Rear": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rctiger": {
+          "VehicleName": "rctiger",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "flash": {
+          "VehicleName": "flash",
+          "WheelSize": {
+             "Front": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "Rear": [
+                0.64,
+                0.64,
+                0.64
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tahoma": {
+          "VehicleName": "tahoma",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "savanna": {
+          "VehicleName": "savanna",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bandito": {
+          "VehicleName": "bandito",
+          "WheelSize": {
+             "Front": [
+                0.55,
+                0.55,
+                0.55
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.2727272727272725
+          }
+       },
+       "freiflat": {
+          "VehicleName": "freiflat",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "streakc": {
+          "VehicleName": "streakc",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "kart": {
+          "VehicleName": "kart",
+          "WheelSize": {
+             "Front": [
+                0.26,
+                0.26,
+                0.26
+             ],
+             "Rear": [
+                0.26,
+                0.26,
+                0.26
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "mower": {
+          "VehicleName": "mower",
+          "WheelSize": {
+             "Front": [
+                0.48,
+                0.48,
+                0.48
+             ],
+             "Rear": [
+                0.56,
+                0.56,
+                0.56
+             ],
+             "WheelProportion": 1.1666666666666667
+          }
+       },
+       "duneride": {
+          "VehicleName": "duneride",
+          "WheelSize": {
+             "Front": [
+                1.14,
+                1.14,
+                1.14
+             ],
+             "Rear": [
+                1.14,
+                1.14,
+                1.14
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sweeper": {
+          "VehicleName": "sweeper",
+          "WheelSize": {
+             "Front": [
+                0.5,
+                0.5,
+                0.5
+             ],
+             "Rear": [
+                0.5,
+                0.5,
+                0.5
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "broadway": {
+          "VehicleName": "broadway",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tornado": {
+          "VehicleName": "tornado",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "dft30": {
+          "VehicleName": "dft30",
+          "WheelSize": {
+             "Front": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "Rear": [
+                1.0,
+                1.0,
+                1.0
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "huntley": {
+          "VehicleName": "huntley",
+          "WheelSize": {
+             "Front": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "Rear": [
+                0.9,
+                0.9,
+                0.9
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "stafford": {
+          "VehicleName": "stafford",
+          "WheelSize": {
+             "Front": [
+                0.78,
+                0.78,
+                0.78
+             ],
+             "Rear": [
+                0.78,
+                0.78,
+                0.78
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "newsvan": {
+          "VehicleName": "newsvan",
+          "WheelSize": {
+             "Front": [
+                0.77,
+                0.77,
+                0.77
+             ],
+             "Rear": [
+                0.77,
+                0.77,
+                0.77
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tug": {
+          "VehicleName": "tug",
+          "WheelSize": {
+             "Front": [
+                0.66,
+                0.66,
+                0.66
+             ],
+             "Rear": [
+                0.75,
+                0.75,
+                0.75
+             ],
+             "WheelProportion": 1.1363636363636362
+          }
+       },
+       "petrotr": {
+          "VehicleName": "petrotr",
+          "WheelSize": {
+             "Front": [
+                1.12,
+                1.12,
+                1.12
+             ],
+             "Rear": [
+                1.12,
+                1.12,
+                1.12
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "euros": {
+          "VehicleName": "euros",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "hotdog": {
+          "VehicleName": "hotdog",
+          "WheelSize": {
+             "Front": [
+                0.86,
+                0.86,
+                0.86
+             ],
+             "Rear": [
+                0.86,
+                0.86,
+                0.86
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "club": {
+          "VehicleName": "club",
+          "WheelSize": {
+             "Front": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "Rear": [
+                0.74,
+                0.74,
+                0.74
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "freibox": {
+          "VehicleName": "freibox",
+          "WheelSize": {
+             "Front": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "Rear": [
+                1.06,
+                1.06,
+                1.06
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "artict3": {
+          "VehicleName": "artict3",
+          "WheelSize": {
+             "Front": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "Rear": [
+                1.1,
+                1.1,
+                1.1
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "androm": {
+          "VehicleName": "androm",
+          "WheelSize": {
+             "Front": [
+                0.95,
+                0.95,
+                0.95
+             ],
+             "Rear": [
+                0.95,
+                0.95,
+                0.95
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "rccam": {
+          "VehicleName": "rccam",
+          "WheelSize": {
+             "Front": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "Rear": [
+                0.25,
+                0.25,
+                0.25
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "copcarla": {
+          "VehicleName": "copcarla",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "copcarsf": {
+          "VehicleName": "copcarsf",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "copcarvg": {
+          "VehicleName": "copcarvg",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "copcarru": {
+          "VehicleName": "copcarru",
+          "WheelSize": {
+             "Front": [
+                0.95,
+                0.95,
+                0.95
+             ],
+             "Rear": [
+                0.95,
+                0.95,
+                0.95
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "picador": {
+          "VehicleName": "picador",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "swatvan": {
+          "VehicleName": "swatvan",
+          "WheelSize": {
+             "Front": [
+                1.366,
+                1.366,
+                1.366
+             ],
+             "Rear": [
+                1.366,
+                1.366,
+                1.366
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "alpha": {
+          "VehicleName": "alpha",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "phoenix": {
+          "VehicleName": "phoenix",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "glenshit": {
+          "VehicleName": "glenshit",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "sadlshit": {
+          "VehicleName": "sadlshit",
+          "WheelSize": {
+             "Front": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "Rear": [
+                0.7,
+                0.7,
+                0.7
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bagboxa": {
+          "VehicleName": "bagboxa",
+          "WheelSize": {
+             "Front": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "Rear": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "bagboxb": {
+          "VehicleName": "bagboxb",
+          "WheelSize": {
+             "Front": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "Rear": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "tugstair": {
+          "VehicleName": "tugstair",
+          "WheelSize": {
+             "Front": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "Rear": [
+                0.6,
+                0.6,
+                0.6
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "boxburg": {
+          "VehicleName": "boxburg",
+          "WheelSize": {
+             "Front": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "Rear": [
+                0.76,
+                0.76,
+                0.76
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "farmtr1": {
+          "VehicleName": "farmtr1",
+          "WheelSize": {
+             "Front": [
+                0.32,
+                0.32,
+                0.32
+             ],
+             "Rear": [
+                0.32,
+                0.32,
+                0.32
+             ],
+             "WheelProportion": 1.0
+          }
+       },
+       "utiltr1": {
+          "VehicleName": "utiltr1",
+          "WheelSize": {
+             "Front": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "Rear": [
+                0.68,
+                0.68,
+                0.68
+             ],
+             "WheelProportion": 1.0
+          }
+       }
+    }
+ }
+ 
