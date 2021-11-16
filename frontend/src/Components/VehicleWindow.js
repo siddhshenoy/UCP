@@ -7,6 +7,8 @@ import { RenderEngine } from './Renderer/RenderEngine.js';
 import { Vehicle, VehicleData, VehicleWheelData } from './Renderer/Vehicle.js';
 import * as JSONVehicleData from '../Data/VehicleData.json';
 import * as JSONVehicleWheelData from  '../Data/VehicleWheelSize.json';
+import * as JSONVehicleComponentData from '../Data/VehicleComponentData.json'
+
 class VehicleWindow extends Component {
     constructor(props) 
     {
@@ -16,7 +18,7 @@ class VehicleWindow extends Component {
         // Modal popup states
         // =====================================================================================================================
         this.state.ModalHeader = "";
-        this.state.ModalBody = "";
+        this.state.ModalBody = [""];
         this.state.ModalShow = false;
 
         this.stateLoggedIn = props.stateLoggedIn;
@@ -25,15 +27,20 @@ class VehicleWindow extends Component {
         this.state.SaveDisabled = true;
         this.state.VehicleColorLabelColor = "#000000";
         this.state.PlayerVehicleData = [];
+        this.state.SpoilerDDDisplay = "none";
+        this.state.SpoilerListLoaded = [];
         //this.state.PlayerSelectedVehicle = null;
         this.onChangeFuncs.VehicleSelect = this.onChangeFuncs.VehicleSelect.bind(this);
         this.onChangeFuncs.VehicleWheelSelect = this.onChangeFuncs.VehicleWheelSelect.bind(this);
         this.onClickFuncs.VehicleSave = this.onClickFuncs.VehicleSave.bind(this);
         this.onChangeFuncs.ColorSelect = this.onChangeFuncs.ColorSelect.bind(this);
         this.onChangeFuncs.NitroSelect = this.onChangeFuncs.NitroSelect.bind(this);
+        this.onChangeFuncs.SpoilerSelect = this.onChangeFuncs.SpoilerSelect.bind(this);
         this.adjustTextColor = this.adjustTextColor.bind(this);
         this.showModal = this.showModal.bind(this);
         this.hideModal = this.hideModal.bind(this);
+        
+        this.VehicleModList = JSONVehicleComponentData.default.VehicleModList;
         // this.WheelSelect = null;
     }
     componentDidMount() {
@@ -74,6 +81,9 @@ class VehicleWindow extends Component {
                 if(data.Status === 1)
                 {
                     let VehData = data.Payload.VehicleData;
+                    console.group("Vehicle Data");
+                    console.log(VehData);
+                    console.groupEnd();
                     this.setState({PlayerVehicleData : VehData});
                 }
             }
@@ -128,10 +138,10 @@ class VehicleWindow extends Component {
                 let data = response.data;
                 if(data !== null) {
                     if(data.Status === 1) {
-                        this.showModal("Vehicle Updated!", "Your vehicle data has been updated succesfully, it will be reflected in game now.");
+                        this.showModal("Vehicle Updated!", ["Your vehicle data has been updated succesfully, it will be reflected in game now."]);
                     }
                     else {
-                        this.showModal("Vehicle Not Updated!", "Your was <b>not</b> updated.");
+                        this.showModal("Vehicle Not Updated!", ["Your was <b>not</b> updated."]);
                     }
                 }
             });
@@ -142,6 +152,7 @@ class VehicleWindow extends Component {
             let SelectedID = event.target.value;
             if(SelectedID !== 0) {
                 this.selectedVehicle.ComponentList[ CONSTANTS.GameData.ComponentIdx["NITRO"] ] = SelectedID;
+                this.g_Vehicle.ReplaceNitros(CONSTANTS.GameData.ComponentMapList[this.selectedVehicle.ComponentList[CONSTANTS.GameData.ComponentIdx["NITRO"]]]);
             }
         },
         ColorSelect : function(event) {
@@ -187,6 +198,7 @@ class VehicleWindow extends Component {
                     this.g_Vehicle.SetLoadPath( (CONSTANTS.ServerURL + "Models/VehicleModels/"));
                     this.g_Vehicle.SetWheelPath( (CONSTANTS.ServerURL + "Models/VehicleWheels/"));
                     this.g_Vehicle.SetWheelModPath( (CONSTANTS.ServerURL +"Models/VehicleModWheels/"));
+                    this.g_Vehicle.SetModPath( (CONSTANTS.ServerURL +"Models/VehicleMods/"));
                     curVehicle = this.g_Vehicle;
                     let This = this;
                     this.g_Vehicle.LoadVehicleWithoutWheels(function(vehicle)
@@ -194,7 +206,7 @@ class VehicleWindow extends Component {
 
                         //console.log(CONSTANTS.GameData.VehicleColors[Veh.Colors[0]]);
                         vehicle.SetHexColor(CONSTANTS.GameData.VehicleColors[Veh.Colors[0]]);
-                        if(Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["WHEELS"]] != 0)
+                        if(Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["WHEELS"]] !== 0)
                         {
                             console.log("Vehicle wheels loading");
                             setTimeout(function() {
@@ -204,18 +216,39 @@ class VehicleWindow extends Component {
                         else {
                             setTimeout(function() { vehicle.ReplaceWheels("Default", CONSTANTS.GameData.ComponentMapList[Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["WHEELS"]]]); }, 250);
                         }
+                        if(Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["SPOILERS"]] !== 0) {
+                            vehicle.ReplaceSpoiler(CONSTANTS.GameData.ComponentMapList[Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["SPOILERS"]]]);
+                        }
+                        if(Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["NITRO"]] !== 0) {
+                            vehicle.ReplaceNitros(CONSTANTS.GameData.ComponentMapList[Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["NITRO"]]]);
+                        }
+                        
                         This.WheelSelect.disabled = false;
                         This.WheelSelect.value = Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["WHEELS"]].toString();
                         This.setState({WheelsDisabled: false});
                         This.setState({SaveDisabled: false});
                         This.SelectNitro.value = Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["NITRO"]].toString();
                         This.SelectColor.value = Veh.Colors[0];
+                        This.SelectSpoiler.value = Veh.ComponentList[CONSTANTS.GameData.ComponentIdx["SPOILERS"]].toString();
                         
                         let val = CONSTANTS.GameData.VehicleColors[Veh.Colors[0]].toString(16);
                         val = ("000000").substring(0, (6- val.length)) + val;
                         This.SelectColor.style.backgroundColor = '#' + val;
                         This.adjustTextColor(Veh.Colors[0]);
-
+                        let VehicleModData = This.VehicleModList[Veh.VehicleModelName];
+                        if(VehicleModData !== null) {
+                            if(VehicleModData.AttachableComponentsList.SpoilerList.length > 0) {
+                                This.setState({
+                                    SpoilerDDDisplay : "block",
+                                    SpoilerListLoaded: VehicleModData.AttachableComponentsList.SpoilerList
+                                })
+                            }
+                            else {
+                                This.setState({
+                                    SpoilerDDDisplay : "none"
+                                })
+                            }
+                        }
                         
                     });
 
@@ -224,7 +257,17 @@ class VehicleWindow extends Component {
                 this.WheelSelect.value = "0";
                 this.setState({WheelsDisabled: true});
                 this.setState({SaveDisabled: true});
+                this.setState({
+                    SpoilerDDDisplay : "none",
+                    SpoilerListLoaded: []
+                });
+            
             }
+        },
+        SpoilerSelect: function(event) {
+            let value = event.target.value;
+            this.g_Vehicle.ReplaceSpoiler(CONSTANTS.GameData.ComponentMapList[value]);
+            this.selectedVehicle.ComponentList[CONSTANTS.GameData.ComponentIdx["SPOILERS"]] = parseInt(value);
         },
         VehicleWheelSelect: function(event) {
             let value = event.target.value;
@@ -238,8 +281,8 @@ class VehicleWindow extends Component {
             }
         }
     }
-    showModal(header,body) {
-        this.setState({ModalHeader: header, ModalBody: body, ModalShow: true});
+    showModal(header,bodyLines) {
+        this.setState({ModalHeader: header, ModalBody: bodyLines, ModalShow: true});
     }
     hideModal() {
         this.setState({ModalShow: false});
@@ -336,7 +379,25 @@ class VehicleWindow extends Component {
                                             
                                             CONSTANTS.GameData.NitroComponentNameMap.map(
                                                 (object,index) => {
-                                                    return (<option key={index} value={object[0]}>{object[1]}</option>);
+                                                    if(object[0] === 0)
+                                                        return (<option key={index} value={object[0]} selected>{object[1]}</option>);
+                                                    else
+                                                        return (<option key={index} value={object[0]} selected>{object[1]}</option>);
+                                                }
+                                            )
+                                            
+                                        }
+                                    </Form.Select>
+                                </Form.FloatingLabel>
+                            </Form.Group>
+                            <Form.Group className="mb-3" style={{display: this.state.SpoilerDDDisplay}}>
+                                <Form.FloatingLabel label="Spoiler">
+                                    <Form.Select aria-label="" ref={(ref) => {this.SelectSpoiler = ref}} onChange={this.onChangeFuncs.SpoilerSelect} disabled={this.state.WheelsDisabled} >
+                                        {
+                                            CONSTANTS.GameData.SpoilerComponentNameMap.map(
+                                                (object,index) => {
+                                                    if(this.state.SpoilerListLoaded.includes(object[0]) || object[0] === "0")
+                                                        return (<option key={index} value={object[0]}>{object[1]}</option>);
                                                 }
                                             )
                                             
@@ -353,7 +414,18 @@ class VehicleWindow extends Component {
                         <Modal.Header closeButton >
                             <Modal.Title>{this.state.ModalHeader}</Modal.Title>
                         </Modal.Header>
-                        <Modal.Body>{this.state.ModalBody}</Modal.Body>
+                        <Modal.Body>
+                            {
+                                this.state.ModalBody.map((obj, idx) => {
+                                
+                                    return (
+                                        <div>
+                                            {obj}
+                                        </div>
+                                    )
+                                })
+                            }
+                        </Modal.Body>
                         <Modal.Footer>
                             <Button variant="primary" onClick={this.hideModal}>
                                 Close

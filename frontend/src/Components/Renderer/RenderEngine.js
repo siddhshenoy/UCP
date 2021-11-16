@@ -183,7 +183,7 @@ var RenderEngine = {
             return RenderEngine.Globals.g_ObjectLoader;
         }
     },
-    Object : class
+    Object3D : class
     {
         constructor(name="")
         {
@@ -211,6 +211,15 @@ var RenderEngine = {
             // }
             this.m_Children.push(o);
             
+        }
+        RemoveChild(o) {
+            
+            for(let k = 0; k < this.m_Children.length; k++) {
+                if(this.m_Children[k] === o) {
+                    this.m_Children.splice(k,1);
+                    break;
+                }
+            }
         }
         Destroy()
         {

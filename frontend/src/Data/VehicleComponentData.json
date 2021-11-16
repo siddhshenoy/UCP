@@ -1,0 +1,2026 @@
+{
+    "VehicleModList": {
+       "admiral": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "alpha": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "banshee": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "blistac": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1023",
+                "1001",
+                "1003",
+                "1002"
+             ],
+             "ExhaustList": [
+                "1019",
+                "1020"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1011",
+                "1143"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "bobcat": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "bravura": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1004",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "buccanee": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "buffalo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1009",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "bullet": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "cabbie": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "cadrona": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1014",
+                "1015"
+             ],
+             "ExhaustList": [
+                "1021",
+                "1020",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "cheetah": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "clover": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1014",
+                "1015"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "club": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1024",
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1004",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "comet": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "elegant": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "emperor": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "esperant": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "euros": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "feltzer": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "fortune": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "glendale": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "greenwoo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1005",
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "hermes": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "huntley": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "hustler": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "infernus": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1009",
+                "1008",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "intruder": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1002",
+                "1001",
+                "1023"
+             ],
+             "ExhaustList": [
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1024"
+             ],
+             "HoodScopeList": [
+                "1004",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "landstal": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013",
+                "1024"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "majestic": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1002",
+                "1023",
+                "1016",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "manana": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1019",
+                "1021",
+                "1020"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013",
+                "1024"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "merit": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1002",
+                "1023",
+                "1016",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1005"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "mesa": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013",
+                "1024"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "moonbeam": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1002",
+                "1016"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "nebula": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1002",
+                "1015",
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "oceanic": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "peren": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1002",
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "phoenix": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1024"
+             ],
+             "HoodScopeList": [
+                "1145",
+                "1143"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "picador": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1022",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "premier": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1001",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1021",
+                "1019"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1005",
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "previon": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1022",
+                "1019"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "primo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1016",
+                "1003",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1143"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "rancher": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1002",
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1013",
+                "1024"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "regina": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "romero": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "sabre": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "sentinel": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1001",
+                "1014",
+                "1023",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "solair": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "stafford": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "stallion": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1003",
+                "1023",
+                "1001"
+             ],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013"
+             ],
+             "HoodScopeList": [
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "stretch": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1009"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "sunrise": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1005",
+                "1004",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "supergt": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1009"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "tahoma": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "tampa": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1012",
+                "1011",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "taxi": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1001",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1021",
+                "1019"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1005",
+                "1004"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "turismo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "vincent": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [
+                "1024"
+             ],
+             "HoodScopeList": [
+                "1004",
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "virgo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1014",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [
+                "1143",
+                "1145"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "voodoo": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "walton": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1022"
+             ],
+             "RoofScopeList": [],
+             "LightList": [
+                "1013",
+                "1024"
+             ],
+             "HoodScopeList": [
+                "1005",
+                "1004",
+                "1012"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "washing": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [
+                "1014",
+                "1023",
+                "1016",
+                "1000"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "willard": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [
+                "1001",
+                "1023",
+                "1003"
+             ],
+             "ExhaustList": [
+                "1020",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [
+                "1012",
+                "1011"
+             ],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "windsor": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [],
+             "SpoilerList": [],
+             "ExhaustList": [],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "zr350": {
+          "VehicleName": "zr350",
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1007"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1020",
+                "1021",
+                "1019",
+                "1018"
+             ],
+             "RoofScopeList": [
+                "1006"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": []
+          }
+       },
+       "elegy": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1036",
+                "1039"
+             ],
+             "SpoilerList": [
+                "1147",
+                "1146"
+             ],
+             "ExhaustList": [
+                "1034",
+                "1037"
+             ],
+             "RoofScopeList": [
+                "1038",
+                "1035"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1171",
+                "1172",
+                "1149",
+                "1148"
+             ]
+          }
+       },
+       "flash": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1047",
+                "1048"
+             ],
+             "SpoilerList": [
+                "1049",
+                "1050"
+             ],
+             "ExhaustList": [
+                "1046",
+                "1045"
+             ],
+             "RoofScopeList": [
+                "1054",
+                "1053"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1153",
+                "1152",
+                "1150",
+                "1151"
+             ]
+          }
+       },
+       "jester": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010",
+                "1009"
+             ],
+             "SideSkirtList": [
+                "1069",
+                "1070"
+             ],
+             "SpoilerList": [
+                "1162",
+                "1158"
+             ],
+             "ExhaustList": [
+                "1065",
+                "1066"
+             ],
+             "RoofScopeList": [
+                "1067",
+                "1068"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1160",
+                "1173",
+                "1159",
+                "1161"
+             ]
+          }
+       },
+       "stratum": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1056",
+                "1057"
+             ],
+             "SpoilerList": [
+                "1058",
+                "1060"
+             ],
+             "ExhaustList": [
+                "1064",
+                "1059"
+             ],
+             "RoofScopeList": [
+                "1055",
+                "1061"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1155",
+                "1157",
+                "1154",
+                "1156"
+             ]
+          }
+       },
+       "sultan": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1026",
+                "1031"
+             ],
+             "SpoilerList": [
+                "1138",
+                "1139"
+             ],
+             "ExhaustList": [
+                "1028",
+                "1029"
+             ],
+             "RoofScopeList": [
+                "1032",
+                "1033"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1169",
+                "1170",
+                "1141",
+                "1140"
+             ]
+          }
+       },
+       "uranus": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1090",
+                "1093"
+             ],
+             "SpoilerList": [
+                "1164",
+                "1163"
+             ],
+             "ExhaustList": [
+                "1092",
+                "1089"
+             ],
+             "RoofScopeList": [
+                "1088",
+                "1091"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1166",
+                "1165",
+                "1168",
+                "1167"
+             ]
+          }
+       },
+       "blade": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1108"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1104",
+                "1105"
+             ],
+             "RoofScopeList": [
+                "1128",
+                "1103"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1182",
+                "1181",
+                "1184",
+                "1183"
+             ]
+          }
+       },
+       "broadway": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1042"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1044",
+                "1043"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1174",
+                "1175",
+                "1176",
+                "1177"
+             ]
+          }
+       },
+       "remingtn": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1122",
+                "1106"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1126",
+                "1127"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [
+                "1100",
+                "1123",
+                "1125"
+             ],
+             "BumpersList": [
+                "1179",
+                "1185",
+                "1180",
+                "1178"
+             ]
+          }
+       },
+       "savanna": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1133"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1129",
+                "1132"
+             ],
+             "RoofScopeList": [
+                "1130",
+                "1131"
+             ],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1189",
+                "1188",
+                "1187",
+                "1186"
+             ]
+          }
+       },
+       "slamvan": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1118",
+                "1119"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1113",
+                "1114"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [
+                "1109",
+                "1110",
+                "1115",
+                "1116"
+             ],
+             "BumpersList": [
+                "1117"
+             ]
+          }
+       },
+       "tornado": {
+          
+          "AttachableComponentsList": {
+             "NitroList": [
+                "1008",
+                "1009",
+                "1010"
+             ],
+             "SideSkirtList": [
+                "1134"
+             ],
+             "SpoilerList": [],
+             "ExhaustList": [
+                "1136",
+                "1135"
+             ],
+             "RoofScopeList": [],
+             "LightList": [],
+             "HoodScopeList": [],
+             "BullbarsList": [],
+             "BumpersList": [
+                "1191",
+                "1190",
+                "1192",
+                "1193"
+             ]
+          }
+       }
+    }
+ }
+ 
