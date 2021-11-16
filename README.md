@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+#User Control Panel - GTA SAMP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A small User Control Panel that enables the players to edit their in game data from website. Currently the UCP does not feature a lot, it only has a 3d vehicle editor which enables the players to see their in-game saved vehicle on the browser. 
 
-## Available Scripts
+The front end is completely written in React.js and Three.js the backend is written in Express.js (I plan on switching it to a python based backend but not any sooner).
 
-In the project directory, you can run:
+#Backend Setup
 
-### `npm start`
+The backend is completely written in one file `server.js`, if you want to tweak around the request and response functionality, that is the file you want to fiddle with. To run the backend you can simply type the following command in command prompt:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> node server.js
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+However, before running the backend you will have to initialize the server configuration files. You can do that by simply running the command:
 
-### `npm test`
+> node server-init.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This will create 2 basic configuration files and a configuration folder `configuration` in your root directory. The two files are:
 
-### `npm run build`
+###mysql_conf.ini
+This file contains the basic mysql credentials which the backend will require for communicating with the database.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+###creds_conf.ini
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This file is an addon to the authentication layer as this file is responsible for maintaining the salt. Change it to the salt you have used in your PAWN script.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#Frontend Setup
 
-### `npm run eject`
+There isn't much about the frontend to setup however, you might have to get all the packages mentioned in the `package.json` before running a dev server or a build.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+That's it for the setup. Happy Coding!
