@@ -1,3 +1,5 @@
 node_modules
 *.glb
 *.ini
+.vs
+.vscode
