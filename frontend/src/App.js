@@ -3,7 +3,6 @@ import {BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 import NavigationBar from './Components/NavigationBar';
 import LoginWindow from './Components/LoginWindow';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import logo from './logo.svg';
 import './App.css';
 import VehicleWindow from './Components/VehicleWindow';
 
@@ -46,16 +45,5 @@ class App extends Component {
 		)
 	}
 }
-	/*
-	<router>
-	Navigation Bar
-	<switch>
-	Link="/Data" -> Personal Vehicles
-	Link="/Vehicles" -> Personal Vehicles
-	Link="/" -> Home Page
-	</switch>
-	</router>
-	*/
-	
 export default App;
 	
